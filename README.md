@@ -23,7 +23,7 @@ SmartTasks API – A Task Management System-An ASP.NET Core Web API for managing
 - AutoMapper for DTO mapping
 - FluentValidation (optional)
 
-- /SmartTasksAPI
+## SmartTasksAPI
   ├── Controllers
   ├── DTOs
   ├── Models
@@ -32,3 +32,9 @@ SmartTasks API – A Task Management System-An ASP.NET Core Web API for managing
   ├── Data
   ├── Program.cs
   └── appsettings.json
+
+  ## 🛠️ Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ShemeenaRawther/SmartTasksAPI.git
