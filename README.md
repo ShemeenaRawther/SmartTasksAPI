@@ -2,17 +2,15 @@
 SmartTasks API – A Task Management System-An ASP.NET Core Web API for managing personal or team tasks. Supports user registration/login, task assignment, priority setting, deadlines, and status tracking.A RESTful Task Management API built with **ASP.NET Core Web API**, **Entity Framework Core**, and **JWT Authentication**.
 
 
-✅ Features to Include:
+## ✅ Features to Include:
 - 🔐 Authentication & Authorization
 - JWT-based authentication
 - Role-based access (Admin, User)
 - User registration & login endpoints
 
-📝 CRUD for Tasks
+## 📝 CRUD for Tasks
 - Create, update, delete, list tasks
-
 - Filter by priority, due date, or status
-
 - Assign tasks to users (if multi-user enabled)
 
 ## 📦 Technologies
@@ -23,7 +21,7 @@ SmartTasks API – A Task Management System-An ASP.NET Core Web API for managing
 - AutoMapper for DTO mapping
 - FluentValidation (optional)
 
-## SmartTasksAPI
+## SmartTasksAPI folder structure
     ├── Controllers
     ├── DTOs
     ├── Models
