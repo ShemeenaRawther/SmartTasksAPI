@@ -14,3 +14,11 @@ SmartTasks API – A Task Management System-An ASP.NET Core Web API for managing
 - Filter by priority, due date, or status
 
 - Assign tasks to users (if multi-user enabled)
+
+📦 Technologies
+- ASP.NET Core Web API (.NET 8)
+- Entity Framework Core (with code-first & migrations)
+- SQL Server or SQLite or in memory
+- Swagger for API documentation
+- AutoMapper for DTO mapping
+- FluentValidation (optional)
