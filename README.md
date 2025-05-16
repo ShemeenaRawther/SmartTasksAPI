@@ -3,16 +3,14 @@ SmartTasks API – A Task Management System-An ASP.NET Core Web API for managing
 
 
 ✅ Features to Include:
-🔐 Authentication & Authorization
-JWT-based authentication
-
-Role-based access (Admin, User)
-
-User registration & login endpoints
+- 🔐 Authentication & Authorization
+- JWT-based authentication
+- Role-based access (Admin, User)
+- User registration & login endpoints
 
 📝 CRUD for Tasks
-Create, update, delete, list tasks
+- Create, update, delete, list tasks
 
-Filter by priority, due date, or status
+- Filter by priority, due date, or status
 
-Assign tasks to users (if multi-user enabled)
+- Assign tasks to users (if multi-user enabled)
